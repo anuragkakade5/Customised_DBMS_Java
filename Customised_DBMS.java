@@ -380,8 +380,8 @@ class Customised_DBMS
                     break;
 
                 case 13 : 
-                    System.out.println("This project developed by Marvellous Infosystems");
-                    System.out.println("All copyrights reserved..");
+                    System.out.println("This project developed by Anurag Kakade");
+                    System.out.println("Thank You for Choosing Us");
 
                     break;
                     
